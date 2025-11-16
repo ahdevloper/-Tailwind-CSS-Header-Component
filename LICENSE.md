@@ -1,48 +1,21 @@
-🌟 Tailwind CSS Header Component
+MIT License
 
-A ready-to-use header for any web project built with Tailwind CSS.
-It includes everything: logo, navigation menu, multi-level dropdowns, Sign In / Sign Up buttons, and is fully responsive across all screen sizes.
+Copyright (c) 2025 [ahdevloper]
 
----
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-⚡ Features
-- Logo and Project Name.
-- Main Navigation with multi-level dropdown menus.
-- Sign In / Sign Up action buttons.
-- Responsive Design that works perfectly on desktop, tablet, and mobile.
-- Built entirely using Tailwind CSS.
-- Lightweight JavaScript for controlling dropdowns and the mobile menu.
-- Ready to be integrated directly into any project.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
----
-
-📂 Files
-- header.html → The main header HTML code.
-- header.js → The JavaScript to activate dropdowns and the mobile menu.
-
----
-
-🚀 How to Use
-1. Copy the header files (header.html + header.js) into your project.
-2. Add the Tailwind CSS link in the <head> section:
-
-```html
-<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-```
-
-3. Call header.js right before the closing </body> tag:
-
-<script src="header.js"></script>
-
----
-
-🎨 Customization
-- Header and button colors are chosen to be attractive and modern using Tailwind CSS utility classes.
-- All elements are easily modifiable to fit any web project.
-- The dropdown menus are functional, and you can add additional links using the existing pattern.
-
----
-
-📄 License
-Licensed under the MIT License.
-You are free to use and modify it for any project, whether personal or commercial.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
